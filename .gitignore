@@ -1,0 +1,7 @@
+.env
+*.asv
+*.mex*
+slprj/
+~$*
+.DS_Store
+results/figures/tmp_*
